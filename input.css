@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* its possible for me to add any css here and it'll work :) */
+
+
+.last{
+    scroll-behavior: smooth;
+}
